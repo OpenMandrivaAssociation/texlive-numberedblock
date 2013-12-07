@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-numberedblock
 Version:	20131010
-Release:	2
+Release:	3
 Summary:	TeXLive numberedblock package
 Group:		Publishing
 URL:		http://tug.org/texlive
