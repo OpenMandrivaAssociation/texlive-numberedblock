@@ -1,16 +1,17 @@
-# revision 29447
+# revision 33109
 # category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
+# catalog-ctan /macros/latex/contrib/numberedblock
+# catalog-date 2014-03-06 18:55:44 +0100
+# catalog-license lppl1.3
+# catalog-version 1.10
 Name:		texlive-numberedblock
-Version:	20131010
-Release:	5
-Summary:	TeXLive numberedblock package
+Epoch:		1
+Version:	1.10
+Release:	1
+Summary:	Print a block of code, with unique index number
 Group:		Publishing
-URL:		http://tug.org/texlive
-License:	http://www.tug.org/texlive/LICENSE.TL
+URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numberedblock
+License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberedblock.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberedblock.doc.tar.xz
 BuildArch:	noarch
@@ -19,7 +20,10 @@ Requires(pre):	texlive-tlpkg
 Requires(post):	texlive-kpathsea
 
 %description
-TeXLive numberedblock package.
+The package has been created for the convenience of the report
+writer; it provides the means to number, and label, code-block
+snippets in your document. In this way, you can (unambiguously)
+refer to each snippet elsewhere in your document.
 
 %post
     %{_sbindir}/texlive.post
