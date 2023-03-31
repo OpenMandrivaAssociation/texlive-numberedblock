@@ -1,7 +1,7 @@
 Name:		texlive-numberedblock
 Epoch:		1
 Version:	33109
-Release:	1
+Release:	2
 Summary:	Print a block of code, with unique index number
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numberedblock
