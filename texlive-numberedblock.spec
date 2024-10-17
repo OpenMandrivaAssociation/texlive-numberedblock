@@ -4,7 +4,7 @@ Version:	33109
 Release:	2
 Summary:	Print a block of code, with unique index number
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numberedblock
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numberedblock
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberedblock.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberedblock.doc.r%{version}.tar.xz
